@@ -12,7 +12,7 @@ const Home = () => {
       </video>
       <div className='Content'>
         <div className='SubContent'>
-          <h1>Book Catolog</h1>
+          <h1>Book Catalogue</h1>
           <p>Manage your Books with Ease</p>
           <button type='button' className='btn btn-outline-dark'>
             <Link to='/register'>Get started</Link>
