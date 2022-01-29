@@ -128,7 +128,7 @@ const Header = () => {
                     <div className='modal-footer'>
                       <a
                         className='mr-5'
-                        href='https://github.com/pandiselvi3899'
+                        href='https://github.com/pandiselvi3899/bookkeeping-app'
                         target='_'>
                         developed by: Pandi Selvi
                       </a>
