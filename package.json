@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tweneboah/book-keeping-app.git"
+    "url": "git+https://github.com/Pandiselvi3899/bookkeeping-app.git"
   },
   "author": "Emmanuel Tweneboah",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tweneboah/book-keeping-app/issues"
+    "url": "https://github.com/Pandiselvi3899/bookkeeping-app/issues"
   },
-  "homepage": "https://github.com/tweneboah/book-keeping-app#readme",
+  "homepage": "https://github.com/Pandiselvi3899/bookkeeping-app#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "concurrently": "^5.3.0",
